@@ -41,7 +41,7 @@ function add3guest(){
 function reset(){
     scoreGuest.innerText = 0
     scoreHome.innerText = 0
-    scoreGuest = 0
-    scoreHome = 0
+    totalGuest = 0
+    totalHome = 0
 
 }
